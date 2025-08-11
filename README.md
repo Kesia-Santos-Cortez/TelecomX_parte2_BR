@@ -52,11 +52,11 @@ A análise buscou entender como diferentes variáveis influenciam a evasão, com
 
 <h3> Correlação entre Variáveis Numéricas </h3>
 
-![Imagem](images/matriz_correlacao.png)
+![Imagem](imagens/matriz.png)
 
 <h3> Evasão por Tipo de Contrato </h3>
 
-![Imagem](images/evasao_contrato.png)
+![Imagem](imagens/account_Contract.png)
 
 ---
 
@@ -75,16 +75,16 @@ Ambos foram treinados com dados balanceados para melhorar a capacidade preditiva
 - F1-Score
 - Matriz de Confusão
 
-![Imagem](images/comparacao_modelos.png)
+![Imagem](imagens/comparacao.png)
 
 ---
 
 <h2> 📈 Comparação de Desempenho </h2>
 
-- O **KNN** apresentou [descrever desempenho com base nos seus resultados].
-- A **Árvore de Decisão** apresentou [descrever desempenho com base nos seus resultados].
-- Com base nas métricas, o modelo **[vencedor]** apresentou melhor equilíbrio entre precisão e recall.
-
+- Árvore de Decisão teve melhor acurácia (0,83) e desempenho equilibrado entre as classes.
+- KNN foi melhor para identificar clientes que irão cancelar (classe 1), mas errou mais na classe 0.
+- Para equilíbrio geral, escolha a Árvore de Decisão.
+- Para priorizar detecção de churn, mesmo com mais erros, use o KNN.
 ---
 
 <h2> 🔍 Principais Fatores que Influenciam a Evasão </h2>
