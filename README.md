@@ -48,7 +48,7 @@ A análise buscou entender como diferentes variáveis influenciam a evasão, com
 
 <h3> Distribuição de Evasão </h3>
 
-![Imagem](images/distribuicao_evasao.png)
+![Imagem](imagens/evasao.png)
 
 <h3> Correlação entre Variáveis Numéricas </h3>
 
