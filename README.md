@@ -114,3 +114,9 @@ O projeto mostrou que a evasão de clientes está fortemente relacionada ao tipo
 A aplicação de modelos preditivos pode ajudar a identificar clientes com maior probabilidade de cancelar, permitindo ações proativas para reter a base.
 
 ---
+
+<h2> 👤 Autor </h2>
+
+- **Kesia Santos**  
+🔗 [Kesia_Santos](https://www.linkedin.com/in/kesia-karine-santos/) | [Seu GitHub](https://github.com/Kesia-Santos-Cortez)
+
